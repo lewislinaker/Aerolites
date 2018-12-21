@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsfml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries/jsfml.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://jsfml.sfmlprojects.org/javadoc/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Libraries/jsfml_src" />
+    </SOURCES>
+  </library>
+</component>

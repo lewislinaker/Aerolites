@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Binaries/jsfml.jar Binaries/engine.jar
+Main-Class: com.teamtwo.aerolites.Utilities.Launcher
+

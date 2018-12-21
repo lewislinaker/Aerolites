@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="Aerolites:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Aerolites</output-path>
+    <root id="root">
+      <element id="directory" name="Content">
+        <element id="dir-copy" path="$PROJECT_DIR$/Game/Content" />
+      </element>
+      <element id="archive" name="Game.jar">
+        <element id="module-output" name="Game" />
+      </element>
+      <element id="directory" name="Binaries">
+        <element id="library" level="project" name="jsfml" />
+        <element id="archive" name="engine.jar">
+          <element id="module-output" name="Engine" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

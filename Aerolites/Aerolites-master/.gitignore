@@ -1,0 +1,7 @@
+.idea/workspace.xml
+.idea/inspectionProfiles/
+.idea/vcs.xml
+Engine/out/
+Game/out/
+Libraries/jsfml_src/
+out/
